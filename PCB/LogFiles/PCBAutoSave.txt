@@ -1,0 +1,16 @@
+
+                                Autosave Log File
+                                -----------------
+
+                        02:01 PM Wednesday, July 18, 2018
+                 Job Name: H:\BURLEDS\BURLEDS_ESP32\PCB\PCB.pcb
+
+Autosave pending at 14:07:16 Wed  Attempting...
+Autosave completed successfully.  14:07:18 Wed
+
+                               Autosave log closed
+                               -------------------
+
+                        02:09 PM Wednesday, July 18, 2018
+                 Job Name: H:\BURLEDS\BURLEDS_ESP32\PCB\PCB.pcb
+

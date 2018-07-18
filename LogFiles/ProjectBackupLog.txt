@@ -1,0 +1,10 @@
+[2017-10-26 20.40.12] Successfully created [AutoSave] backup [2017-10-26 20.40.11 - auto.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2017-11-12 13.42.14] Successfully created [AutoSave] backup [2017-11-12 13.42.14 - auto.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2017-11-12 14.20.53] Removing (by prune) [AutoSave] backup file [C:\t\Project_template\Default\ProjectBackup\backups\2017-10-26 20.40.11 - auto.zip].
+[2017-11-12 14.20.53] [AutoSave] backup file [Project_template\Default\ProjectBackup\backups\2017-10-26 20.40.11 - auto.zip] removed.
+[2017-11-12 14.20.53] Removing (by prune) [AutoSave] backup file [C:\t\Project_template\Default\ProjectBackup\backups\2017-11-12 13.42.14 - auto.zip].
+[2017-11-12 14.20.53] [AutoSave] backup file [Project_template\Default\ProjectBackup\backups\2017-11-12 13.42.14 - auto.zip] removed.
+[2017-11-12 14.28.48] Successfully created [AutoSave] backup [2017-11-12 14.28.47 - auto.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2017-11-12 14.30.41] Removing (by prune) [AutoSave] backup file [F:\Project_template\Default\ProjectBackup\backups\2017-11-12 14.28.47 - auto.zip].
+[2017-11-12 14.30.41] [AutoSave] backup file [\Project_template\Default\ProjectBackup\backups\2017-11-12 14.28.47 - auto.zip] removed.
+[2018-07-18 14.01.20] Successfully created [AutoSave] backup [2018-07-18 14.01.20 - auto.zip] requested by [DESKTOP-D6MOGOB:alexis].

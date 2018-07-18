@@ -1,0 +1,27 @@
+=======================================================================
+Xpedition Layout - Version 117.0.817.8330
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  H:\BURLEDS\BURLEDS_ESP32\PCB\
+
+
+Design Units:(mm)
+
+Replace Cell Log:   repCellLog03.txt
+
+Wed Jul 18 14:01:57 2018
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Wed Jul 18 14:01:57 2018  ---------------
+
+
+
+
+---------------    Wed Jul 18 14:01:57 2018  ---------------
+
+
